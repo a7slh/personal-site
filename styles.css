@@ -219,7 +219,7 @@ nav .right a:last-child {
   }
 
   nav .right a {
-    font-size: 27px;
+    font-size: 28px;
   }
 
   nav .right a span {
@@ -238,7 +238,7 @@ nav .right a:last-child {
     padding-bottom: 35px;
   }
   .hero-section .text h1 {
-    font-size: 30px;
+    font-size: 31px;
     text-align: center;
   }
 
@@ -253,6 +253,6 @@ nav .right a:last-child {
   }
 
   .skills-section .cells .cell span {
-    font-size: 16px;
+    font-size: 17px;
   }
 }
